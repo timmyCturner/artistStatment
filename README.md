@@ -1,0 +1,2 @@
+# artistStatment
+artist Statement
